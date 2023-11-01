@@ -1,1 +1,2 @@
 select 'jamin';
+select 'Haji';
