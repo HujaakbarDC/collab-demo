@@ -1,1 +1,1 @@
-Select 2;
+Select 'ご飯食べたい';
